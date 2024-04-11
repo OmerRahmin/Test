@@ -1,0 +1,5 @@
+﻿  date.c
+  myFunctions.c
+  Generating Code...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\omerr\OneDrive\Desktop\Omer\Studies\C\AirlineProject\x64\Debug\AirlineProject.exe : fatal error LNK1120: 1 unresolved externals
